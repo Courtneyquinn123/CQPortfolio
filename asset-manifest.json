@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/CQPortfolio/static/css/main.bf538fe7.css",
+    "main.js": "/CQPortfolio/static/js/main.85df09a6.js",
+    "static/media/connect4.png": "/CQPortfolio/static/media/connect4.06eed769369fe71f81bd.png",
+    "static/media/girlsgocyber.png": "/CQPortfolio/static/media/girlsgocyber.663f2b12715992b9894b.png",
+    "static/media/todolist.png": "/CQPortfolio/static/media/todolist.3a6629bb223190174371.png",
+    "static/media/java.png": "/CQPortfolio/static/media/java.1eb26d15c955096cc5ce.png",
+    "static/media/naval.png": "/CQPortfolio/static/media/naval.bc67241f244833fbd97f.png",
+    "static/media/css.png": "/CQPortfolio/static/media/css.015d4e7819fe71e19c25.png",
+    "static/media/hackbi.png": "/CQPortfolio/static/media/hackbi.5cfc90b0bb78acd0ae14.png",
+    "static/media/virginiatech.png": "/CQPortfolio/static/media/virginiatech.9ed914fd868eeabcf097.png",
+    "static/media/tictactoe.png": "/CQPortfolio/static/media/tictactoe.9fb6a08bb0d478919449.png",
+    "static/media/nodejs.png": "/CQPortfolio/static/media/nodejs.9fea1c7da2bd42ab93bf.png",
+    "static/media/vscode.png": "/CQPortfolio/static/media/vscode.d793c746fbc937f66e3d.png",
+    "static/media/github.png": "/CQPortfolio/static/media/github.cb73179dee16828343d7.png",
+    "static/media/figma.png": "/CQPortfolio/static/media/figma.72fbc535ebe253a5dbc4.png",
+    "static/media/HeroImage.png": "/CQPortfolio/static/media/HeroImage.5491dc0fa75ebc07db65.png",
+    "index.html": "/CQPortfolio/index.html",
+    "main.bf538fe7.css.map": "/CQPortfolio/static/css/main.bf538fe7.css.map",
+    "main.85df09a6.js.map": "/CQPortfolio/static/js/main.85df09a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.85df09a6.js"
+  ]
+}
