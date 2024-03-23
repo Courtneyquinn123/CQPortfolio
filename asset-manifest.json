@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/CQPortfolio/static/css/main.bf538fe7.css",
-    "main.js": "/CQPortfolio/static/js/main.fac0de90.js",
+    "main.js": "/CQPortfolio/static/js/main.35e0892c.js",
     "static/media/weatherapi.png": "/CQPortfolio/static/media/weatherapi.34796423558b27b10269.png",
     "static/media/connect4.png": "/CQPortfolio/static/media/connect4.06eed769369fe71f81bd.png",
     "static/media/girlsgocyber.png": "/CQPortfolio/static/media/girlsgocyber.663f2b12715992b9894b.png",
@@ -19,10 +19,10 @@
     "static/media/HeroImage.png": "/CQPortfolio/static/media/HeroImage.5491dc0fa75ebc07db65.png",
     "index.html": "/CQPortfolio/index.html",
     "main.bf538fe7.css.map": "/CQPortfolio/static/css/main.bf538fe7.css.map",
-    "main.fac0de90.js.map": "/CQPortfolio/static/js/main.fac0de90.js.map"
+    "main.35e0892c.js.map": "/CQPortfolio/static/js/main.35e0892c.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
-    "static/js/main.fac0de90.js"
+    "static/js/main.35e0892c.js"
   ]
 }
